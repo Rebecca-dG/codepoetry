@@ -20,5 +20,3 @@ That twenty centuries of stony sleep
 Were vexed to nightmare by a rocking cradle,
 And what rough beast, its hour come round at last,
 Slouches towards Bethlehem to be born?
-
-Who care anything about cheesecake
